@@ -1,0 +1,17 @@
+----------
+Shell Sort 1 runs in 3106616 ns.
+
+----------
+Shell Sort 2 runs in 914682 ns.
+
+----------
+Shell Sort 3 runs in 872009 ns.
+
+----------
+Shell Sort 4 runs in 856578 ns.
+
+----------
+Shell Sort 5 runs in 309153 ns.
+
+----------
+Heap Sort runs in 4795578 ns.
